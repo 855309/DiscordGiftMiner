@@ -1,0 +1,13 @@
+C:\Users\hamza\source\repos\DiscordGiftMiner\bin\Debug\DiscordGiftMiner.exe.config
+C:\Users\hamza\source\repos\DiscordGiftMiner\bin\Debug\DiscordGiftMiner.exe
+C:\Users\hamza\source\repos\DiscordGiftMiner\bin\Debug\DiscordGiftMiner.pdb
+C:\Users\hamza\source\repos\DiscordGiftMiner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamza\source\repos\DiscordGiftMiner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.MainForm.resources
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.Properties.Resources.resources
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.csproj.CopyComplete
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.exe
+C:\Users\hamza\source\repos\DiscordGiftMiner\obj\Debug\DiscordGiftMiner.pdb
